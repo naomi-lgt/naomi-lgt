@@ -17,6 +17,7 @@ In October 2022 I enrolled in a 3 month web development course so as to learn An
 - 🧑‍🍳 [**Villa Rosa**](https://github.com/naomi-lgt/villa-rosa): a one page showcase website for a mock restaurant, made with React.
 
 ## Currently working on
+- 🎧 [**Spotify 98**](https://github.com/naomi-lgt/spotify-98): a Spotify clone made with React, Node.js and inspired by the UI of Windows 98.
 - 💜 [**Meeet**](https://github.com/naomi-lgt/meeet-react-js): a dating website based on geolocation made with React, React Redux and with Google Firebase.
 
 ...and many more to come!
